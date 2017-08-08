@@ -1,4 +1,4 @@
-%% this programtakes Pressure matrix formed using "th.m"and averaged smoothed pressure data is returned
+%% this programtakes Pressure matrix formed and averaged smoothed pressure data is returned
 
 p=input('value of p'); % enter "p" where is "p" is the 
 % pressure matrix formed by th.m
