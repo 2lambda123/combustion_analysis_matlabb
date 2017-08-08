@@ -1,3 +1,5 @@
+%%%This program reads a CSV File contaning Crank Angle (Index), In-Cylinder Pressuer and Fuel Line Pressure%%%
+
 %%A=input ('Enter A'); % note enter "A" - case sensitive
 % filename = 'L50H0.csv';
 filename = f_in;
